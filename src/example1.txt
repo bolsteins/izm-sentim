@@ -1,5 +1,0 @@
-This is a good line.
-This is a bad line.
-Another good line.
-Totally unrelated text.
-Kaut kas latviski.
